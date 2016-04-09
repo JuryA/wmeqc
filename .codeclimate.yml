@@ -5,3 +5,5 @@ engines:
   shellcheck:
     enabled: true
 ratings:
+  paths:
+  - ".bashrc"
